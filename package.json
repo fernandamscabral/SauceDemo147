@@ -1,0 +1,23 @@
+{
+  "name": "saucedemo147",
+  "version": "1.0.0",
+  "description": "Playwright E2E test automation for SauceDemo using CodeGen and manual scripting. Individual QA training assignment at Iterasys (class 147).",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandamscabral/SauceDemo147.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fernandamscabral/SauceDemo147/issues"
+  },
+  "homepage": "https://github.com/fernandamscabral/SauceDemo147#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
